@@ -1,0 +1,9 @@
+{
+    "name": "local-monitor-handler",
+    "author": "Kacper",
+    "main": "main.py",
+    "version": "0.1.0",
+    "type": "monitor",
+    "config": [
+    ]
+}
